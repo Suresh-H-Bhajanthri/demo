@@ -1,0 +1,16 @@
+.library-container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-container{
+    height: 450px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
